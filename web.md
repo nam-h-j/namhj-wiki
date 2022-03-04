@@ -1,4 +1,4 @@
-# 프론트엔드 웹 관련 질문 정리
+# CS관련, 웹 관련 질문 정리
 
 ##브라우저 렌더링 과정
   * HTML파싱, DOM(Document Object Model)트리 생성
