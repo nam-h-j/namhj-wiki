@@ -20,6 +20,7 @@
     let, const는 직접 할당하지 않으면 TDZ(Temporal Dead Zone) 상태가 되어서 에러가 발생
   * var는 함수 스코프, let, const는 블록스코프
 
+#callback, promise, async/await
 ## 콜백함수 (Callback function)
  * 함수의 파라미터로 들어가는 함수(함수를 실행하는 함수)
  * 상태변화, 액션의 변화 등에 실행하고 싶은 것
@@ -40,20 +41,6 @@
  ~~~
  * 서버통신을 할때 통신 성공, 실패 여부를 기본적으로 콜백으로 요청해야하는데, 이런 통신처리가 2~3번만 중첩되도 코드의 순서 파악이 어려워짐
  
- ~~~ javascirpt
-  //만약 회원 api에서 id를 취득하고 결제 api에서 amount를 취득한뒤에 vip 회원 인지 판단하는 과정을 콜백으로만 구성해보면
-  
-  function doSometing(param){
-    console.log(start);
-    param();
-  }
-  
-  function callback(){
-    console.log(callback);
-  }
-  
-  doSometing(callback)
- ~~~
 ## Promise
  * 비동기 처리에 사용되는 객체
  * 콜백 중첩을 막기 위해서 고안
