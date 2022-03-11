@@ -1,6 +1,6 @@
 # 프론트엔드 JS 관련 면접 질문 모음
 
-*[스코프 (Scope)](## 스코프 (Scope))
+[* 스코프 (Scope)](## 스코프 (Scope)
 *호이스팅 (Hoisting)
 *var, let, const의 차이
 *콜백함수 (Callback Function)
