@@ -1,4 +1,4 @@
-[HOME](../../../../)>[js](../)
+[HOME](../../../../) > [js](../)
 
 ## Javascript essentials
 
