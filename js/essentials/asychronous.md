@@ -1,4 +1,4 @@
-[home](/) >[js](../) >[essentials](./) > JS Asynchronous
+[js](../) >[essentials](./) > JS Asynchronous
 
 ## JS Asynchronous
 
