@@ -1,5 +1,5 @@
 [home](../../) >[js](../) >[essentials](./) > JS Asynchronous
 
-## [essentials](./) > JS Asynchronous
+## JS Asynchronous
 
 [back](./)
