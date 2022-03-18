@@ -1,4 +1,4 @@
-[home](/main) >[js](../) >[essentials](./) > JS Asynchronous
+[home](/namhj-wiki) >[js](../) >[essentials](./) > JS Asynchronous
 
 ## JS Asynchronous
 
