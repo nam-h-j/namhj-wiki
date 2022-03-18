@@ -1,4 +1,4 @@
 #JAVASCIRPT
--[Essetials](./essetials)
--[Scrap](./scrap)
--[Error](./error)
+- [Essetials](./essetials)
+- [Scrap](./scrap)
+- [Error](./error)
